@@ -2,6 +2,7 @@ import {ManType} from './Destructuring';
 import exp from 'constants';
 
 let props: ManType;
+
 beforeEach(() =>{
     props = {
         name: 'Vladimir',
